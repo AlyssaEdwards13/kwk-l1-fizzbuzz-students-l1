@@ -13,4 +13,4 @@ elsif i % 5 == 0 && i % 3 == 0
 end 
 end 
 
-fizzbuzz (i)
+fizzbuzz (7)
