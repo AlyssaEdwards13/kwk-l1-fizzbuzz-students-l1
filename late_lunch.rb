@@ -5,11 +5,11 @@
 
 def fizzbuzz (i)
   if i % 3 == 0
-  puts "fizz"
+  puts "Bizz"
   elsif i % 5 == 0
-  puts "buzz"
+  puts "Buzz"
 elsif i % 5 == 0 && i % 3 == 0 
-  puts "fizzbuzz"
+  puts "Fizzbuzz"
 else puts NIL
 end 
 end 
