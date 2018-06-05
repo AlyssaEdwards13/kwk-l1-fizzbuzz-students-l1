@@ -4,12 +4,13 @@
 #if not divisible by 5 or 3, puts NIL
 
 def fizzbuzz (i)
-  if i % 3 == 
+  if i % 3 == 0
   puts "fizz"
-  elsif i % 5
+  elsif i % 5 == 0
   puts "buzz"
 elsif i % 5 == 0 && i % 3 == 0 
   puts "fizzbuzz"
+else puts "NIL"
 end 
 end 
 
