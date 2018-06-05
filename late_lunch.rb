@@ -14,4 +14,4 @@ else puts "NIL"
 end 
 end 
 
-fizzbuzz (7)
+fizzbuzz (3)
