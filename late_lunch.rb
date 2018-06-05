@@ -4,6 +4,7 @@
 #if not divisible by 5 or 3, puts NIL
 
 def fizzbuzz (i)
+  
   if i % 3 == 0
   puts "Bizz"
   elsif i % 5 == 0
