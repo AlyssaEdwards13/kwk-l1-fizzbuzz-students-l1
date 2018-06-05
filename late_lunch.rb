@@ -10,7 +10,7 @@ def fizzbuzz (i)
   puts "buzz"
 elsif i % 5 == 0 && i % 3 == 0 
   puts "fizzbuzz"
-else puts "NIL"
+else puts NIL
 end 
 end 
 
