@@ -8,7 +8,7 @@ def fizzbuzz (i)
   puts "fizz"
   elsif i % 5
   puts "buzz"
-elsif i % 5 && % 3
+elsif i % 5 == 0 && i % 3 == 0 
   puts "fizzbuzz"
   
 end 
